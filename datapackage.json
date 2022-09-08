@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "superheroes",
-      "path": "query(1).csv",
+      "path": "superheroes.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -22,7 +22,7 @@
           {
             "name": "parentLabel",
             "type": "any",
-            "format": "DD.MM.YYYY",
+            "format": "default",
             "title": "Their Parent's Name",
             "description": "It has to be in some comic that this was really the parent. No parallel universe parents please!"
           },
