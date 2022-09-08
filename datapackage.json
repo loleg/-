@@ -1,0 +1,55 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "superheroes",
+      "path": "query(1).csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "person",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "personLabel",
+            "type": "string",
+            "format": "default",
+            "title": "Superhero Name",
+            "description": "This is the name of a superhero in the Marvell comic universe"
+          },
+          {
+            "name": "parentLabel",
+            "type": "any",
+            "format": "DD.MM.YYYY",
+            "title": "Their Parent's Name",
+            "description": "It has to be in some comic that this was really the parent. No parallel universe parents please!"
+          },
+          {
+            "name": "linkcount",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "superhero-parents",
+  "title": "Superhero Parents 🦸",
+  "description": "A list of all the known parents of superheroes.",
+  "version": "1.0",
+  "contributors": [
+    {
+      "title": "O Lavrovsky",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}

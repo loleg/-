@@ -1,0 +1,783 @@
+person,personLabel,parentLabel,linkcount
+http://www.wikidata.org/entity/Q79015,Superman,Lara Lor-Van,100
+http://www.wikidata.org/entity/Q162005,Paul G. Allen,Kenneth S. Allen,79
+http://www.wikidata.org/entity/Q71031,Robert Bunsen,Christian Bunsen,78
+http://www.wikidata.org/entity/Q76556,Richard Dedekind,Julius Dedekind,67
+http://www.wikidata.org/entity/Q151872,Amos Oz,Yehuda Arieh Klausner,63
+http://www.wikidata.org/entity/Q272912,Eugène Viollet-le-Duc,Emmanuel Louis Nicolas Viollet-le-Duc,57
+http://www.wikidata.org/entity/Q203229,François-André Danican Philidor,André Danican Philidor,53
+http://www.wikidata.org/entity/Q203514,Heitor Villa-Lobos,Raul Villa-Lobos,51
+http://www.wikidata.org/entity/Q57164,Friedrich Georg Wilhelm von Struve,Jacob Struve,48
+http://www.wikidata.org/entity/Q287752,Charlotte Perkins Gilman,Frederic Beecher Perkins,47
+http://www.wikidata.org/entity/Q129228,René Girard,Joseph Girard,45
+http://www.wikidata.org/entity/Q272774,John Hancock,"John Hancock, Jr.",44
+http://www.wikidata.org/entity/Q309977,Tim Hunt,Richard William Hunt,44
+http://www.wikidata.org/entity/Q576,Jorge Alessandri,Arturo Alessandri,36
+http://www.wikidata.org/entity/Q470557,Jean Paulhan,Frédéric Paulhan,33
+http://www.wikidata.org/entity/Q514741,Gaston Paris,Alexis Paulin Paris,32
+http://www.wikidata.org/entity/Q347871,Sigismond Thalberg,Moritz Joseph Johann von Dietrichstein,31
+http://www.wikidata.org/entity/Q60866,Hinrich Lichtenstein,Anton August Heinrich Lichtenstein,30
+http://www.wikidata.org/entity/Q231832,Anne Marie Louise d'Orléans,"Marie de Bourbon, Duchess of Montpensier",30
+http://www.wikidata.org/entity/Q467611,Benjamin Peirce,Benjamin Peirce,30
+http://www.wikidata.org/entity/Q368732,Eliyahu M. Goldratt,Avraham-Yehuda Goldrat,26
+http://www.wikidata.org/entity/Q453449,Liu Xin,Liu Xiang,25
+http://www.wikidata.org/entity/Q937063,Michael H. Hart,Caroline Horowitz,25
+http://www.wikidata.org/entity/Q723585,Ludovic Halévy,Léon Halévy,24
+http://www.wikidata.org/entity/Q299334,Viivi Luik,Hilda Luik,24
+http://www.wikidata.org/entity/Q700638,Eugène Burnouf,Jean-Louis Burnouf,23
+http://www.wikidata.org/entity/Q238890,Kathleen Kenyon,Frederic G. Kenyon,22
+http://www.wikidata.org/entity/Q560792,Allan Ramsay,Allan Ramsay,22
+http://www.wikidata.org/entity/Q61213,"Anthony Ulrich, Duke of Brunswick-Wolfenbüttel","Augustus the Younger, Duke of Brunswick-Lüneburg",21
+http://www.wikidata.org/entity/Q65292,Herman Grimm,Wilhelm Grimm,21
+http://www.wikidata.org/entity/Q525792,István Bibó,István Bibó,21
+http://www.wikidata.org/entity/Q65860,Rudolf Wagner,Lorenz Heinrich Wagner,21
+http://www.wikidata.org/entity/Q63760,Andreas Franz Wilhelm Schimper,Wilhelm Philippe Schimper,20
+http://www.wikidata.org/entity/Q482807,Mao Anying,Mao Zedong,20
+http://www.wikidata.org/entity/Q697249,"Ferdinand Albert I, Duke of Brunswick-Lüneburg","Augustus the Younger, Duke of Brunswick-Lüneburg",20
+http://www.wikidata.org/entity/Q153481,Jenna Bush Hager,Laura Bush,20
+http://www.wikidata.org/entity/Q68757,Moritz Wagner,Lorenz Heinrich Wagner,20
+http://www.wikidata.org/entity/Q4317038,Zhanna Nemtsova,Raisa Nemtsova,20
+http://www.wikidata.org/entity/Q257279,William Crawford Gorgas,Amelia Gayle Gorgas,19
+http://www.wikidata.org/entity/Q2602354,Adam Papée,Fryderyk Papée,18
+http://www.wikidata.org/entity/Q704860,David Garnett,Constance Garnett,18
+http://www.wikidata.org/entity/Q65655,"Rudolph Augustus, Duke of Brunswick-Lüneburg","Augustus the Younger, Duke of Brunswick-Lüneburg",16
+http://www.wikidata.org/entity/Q1347918,François Lenormant,Charles Lenormant,16
+http://www.wikidata.org/entity/Q1450796,François Victor Alphonse Aulard,Alphonse Aulard,16
+http://www.wikidata.org/entity/Q153730,Barbara Bush,Laura Bush,15
+http://www.wikidata.org/entity/Q2628443,Charles Eliot Norton,Andrews Norton,15
+http://www.wikidata.org/entity/Q19667575,Marie Elisabeth of Brunswick-Wolfenbüttel,"Augustus the Younger, Duke of Brunswick-Lüneburg",14
+http://www.wikidata.org/entity/Q77047,Johannes Lepsius,Karl Richard Lepsius,14
+http://www.wikidata.org/entity/Q3292905,Marie de Régnier,José-Maria de Heredia,14
+http://www.wikidata.org/entity/Q1242983,Thorvald N. Thiele,Just Mathias Thiele,14
+http://www.wikidata.org/entity/Q6306998,Julian Bond,Julia Agnes Washington Bond,14
+http://www.wikidata.org/entity/Q86167,Therese Huber,Christian Gottlob Heyne,13
+http://www.wikidata.org/entity/Q291033,Jean-Philippe Lauer,Philippe Lauer,13
+http://www.wikidata.org/entity/Q657515,Hendrik Brugmans,Hajo Brugmans,13
+http://www.wikidata.org/entity/Q334302,Airey Neave,Sheffield Airey Neave,13
+http://www.wikidata.org/entity/Q922671,Pavel Alexandrovich Stroganov,Alexander Sergeyevich Stroganov,13
+http://www.wikidata.org/entity/Q642604,Jakob Gronovius,Johann Friedrich Gronovius,12
+http://www.wikidata.org/entity/Q69707,Karoline Jagemann,Christian Joseph Jagemann,12
+http://www.wikidata.org/entity/Q666785,Jonas Lie,Erik Lie,12
+http://www.wikidata.org/entity/Q510116,Nicolaas Heinsius the Elder,Daniel Heinsius,12
+http://www.wikidata.org/entity/Q2566641,Pierre Bovet,Félix Bovet,12
+http://www.wikidata.org/entity/Q958294,Lucien-Anatole Prévost-Paradol,Léon Halévy,11
+http://www.wikidata.org/entity/Q445766,Tadeusz Estreicher,Karol Estreicher,11
+http://www.wikidata.org/entity/Q4301671,Eleanor Mondale,Joan Mondale,11
+http://www.wikidata.org/entity/Q1341617,Henry Woodward,Samuel Woodward,11
+http://www.wikidata.org/entity/Q3427562,Mia Lyhne,Mogens Lyhne,11
+http://www.wikidata.org/entity/Q4164381,Mladen Dolar,Jaro Dolar,11
+http://www.wikidata.org/entity/Q1364400,Gustaf Munch-Petersen,Valfrid Palmgren,11
+http://www.wikidata.org/entity/Q2839658,Alpheus Spring Packard,"Alpheus Spring Packard, Sr.",11
+http://www.wikidata.org/entity/Q433564,Eva Kantůrková,Bohumila Sílová,11
+http://www.wikidata.org/entity/Q1395941,Jean-Jacques Waltz,André Waltz,11
+http://www.wikidata.org/entity/Q707760,Li Na,Mao Zedong,10
+http://www.wikidata.org/entity/Q922651,Mao Anqing,Mao Zedong,10
+http://www.wikidata.org/entity/Q318738,Reinhold Lepsius,Karl Richard Lepsius,10
+http://www.wikidata.org/entity/Q2704730,"Edward Law, 1st Baron Ellenborough",Edmund Law,10
+http://www.wikidata.org/entity/Q67533,Karl Wilhelm Dindorf,Gottlieb Immanuel Dindorf,10
+http://www.wikidata.org/entity/Q555485,Stephan Krehl,Christoph Krehl,10
+http://www.wikidata.org/entity/Q718512,Richard Garnett,Richard Garnett,10
+http://www.wikidata.org/entity/Q351257,Carl Christoffer Gjörwell the Younger,Carl Christoffer Gjörwell Sr.,10
+http://www.wikidata.org/entity/Q1445681,M. Caldwell Butler,Sarah Poage Caldwell Butler,10
+http://www.wikidata.org/entity/Q573338,Anthony Hickox,Anne V. Coates,9
+http://www.wikidata.org/entity/Q9348705,Sibylle Ursula of Brunswick-Wolfenbüttel,"Augustus the Younger, Duke of Brunswick-Lüneburg",9
+http://www.wikidata.org/entity/Q18527799,Dorothea Pertz,Georg Heinrich Pertz,9
+http://www.wikidata.org/entity/Q895504,Ferdinand Jagemann,Christian Joseph Jagemann,9
+http://www.wikidata.org/entity/Q322499,Stanisław Estreicher,Karol Estreicher,9
+http://www.wikidata.org/entity/Q718857,Geoffrey Owens,Major Owens,9
+http://www.wikidata.org/entity/Q15064105,Ecaterina Arbore-Ralli,Zamfir Arbore,9
+http://www.wikidata.org/entity/Q15402320,Nina Arbore,Zamfir Arbore,9
+http://www.wikidata.org/entity/Q2281130,Clemente Palma,Ricardo Palma,9
+http://www.wikidata.org/entity/Q2341424,Ustazade Silvestre de Sacy,Antoine Isaac Silvestre de Sacy,9
+http://www.wikidata.org/entity/Q4764318,Angélica Palma,Ricardo Palma,9
+http://www.wikidata.org/entity/Q68093,Ludolf von Krehl,Christoph Krehl,9
+http://www.wikidata.org/entity/Q3262847,Louis-Pasteur Vallery-Radot,René Vallery-Radot,9
+http://www.wikidata.org/entity/Q4209561,Heikki Holmås,Stig Holmås,9
+http://www.wikidata.org/entity/Q6381155,Kazimierz Bartoszewicz,Julian Bartoszewicz,9
+http://www.wikidata.org/entity/Q774772,Clark Kent,Lara Lor-Van,9
+http://www.wikidata.org/entity/Q1338236,Xavier Miserachs,Montserrat Ribalta i Escoda,9
+http://www.wikidata.org/entity/Q216362,August von Goethe,Johann Wolfgang von Goethe,8
+http://www.wikidata.org/entity/Q3267042,Li Min,Mao Zedong,8
+http://www.wikidata.org/entity/Q73975,Hans Blum,Robert Blum,8
+http://www.wikidata.org/entity/Q265834,Anne Danican Philidor,André Danican Philidor,8
+http://www.wikidata.org/entity/Q1651229,Edward Garnett,Richard Garnett,8
+http://www.wikidata.org/entity/Q89645,Johann Jacob Paul Moldenhawer,Johann Heinrich Daniel Moldenhawer,8
+http://www.wikidata.org/entity/Q3197069,Kinga Dunin,Janusz Dunin,8
+http://www.wikidata.org/entity/Q6098027,Johan Frederik Vilhelm Schlegel,Johann Heinrich Schlegel,8
+http://www.wikidata.org/entity/Q2723204,Superboy-Prime,Lara Lor-Van,8
+http://www.wikidata.org/entity/Q3170484,Jean Babelon,Ernest Babelon,8
+http://www.wikidata.org/entity/Q941189,Mikel Irujo Amezaga,Arantzazu Amezaga Iribarren,8
+http://www.wikidata.org/entity/Q1748974,Paul Schuster Taylor,Rose Schuster Taylor,8
+http://www.wikidata.org/entity/Q113706,Fritz Schöll,Adolf Schöll,7
+http://www.wikidata.org/entity/Q2059434,Paul Emil Jacobs,Christian Friedrich Wilhelm Jacobs,7
+http://www.wikidata.org/entity/Q6042284,Alexandru A. Philippide,Alexandru Philippide,7
+http://www.wikidata.org/entity/Q17003404,Jean François Gail,Jean-Baptiste Gail,7
+http://www.wikidata.org/entity/Q4820726,August Matthiae,Georg Matthiae,7
+http://www.wikidata.org/entity/Q273240,Belle da Costa Greene,Richard Theodore Greener,7
+http://www.wikidata.org/entity/Q2218764,Samuel P. Woodward,Samuel Woodward,7
+http://www.wikidata.org/entity/Q3101441,George Brett,William Howard Brett,7
+http://www.wikidata.org/entity/Q441688,Nicola LeFanu,William LeFanu,7
+http://www.wikidata.org/entity/Q1248001,Joseph Planta,Andrew Planta,7
+http://www.wikidata.org/entity/Q3719926,Edward Augustus Holyoke,Edward Holyoke,7
+http://www.wikidata.org/entity/Q1338449,Emmanuel des Essarts,Alfred Des Essarts,7
+http://www.wikidata.org/entity/Q320827,I. E. S. Edwards,Edward Edwards,7
+http://www.wikidata.org/entity/Q355738,Alejandro Planchart,Enrique Planchart Loynaz,7
+http://www.wikidata.org/entity/Q2331842,Stanley Wojcicki,Janina Wójcicka Hoskins,7
+http://www.wikidata.org/entity/Q17480899,Antoni,Josefa Callao Mínguez,7
+http://www.wikidata.org/entity/Q4020008,William Franklin,Benjamin Franklin,6
+http://www.wikidata.org/entity/Q5444579,Fernando Alessandri,Arturo Alessandri,6
+http://www.wikidata.org/entity/Q15507802,Wilhelm Henke,Ernst Ludwig Theodor Henke,6
+http://www.wikidata.org/entity/Q102601,Robert Michaelis von Olshausen,Justus Olshausen,6
+http://www.wikidata.org/entity/Q108854,Ernst von Harnack,Adolf von Harnack,6
+http://www.wikidata.org/entity/Q1539769,Gottlieb Emanuel Haller,Albrecht von Haller,6
+http://www.wikidata.org/entity/Q97525,Otto Volger,Wilhelm Friedrich Volger,6
+http://www.wikidata.org/entity/Q7660922,Sylvia Gosse,Edmund Gosse,6
+http://www.wikidata.org/entity/Q70338,Daniel Gotthilf Moldenhawer,Johann Heinrich Daniel Moldenhawer,6
+http://www.wikidata.org/entity/Q141722,Wilhelm Deecke,Ernst Deecke,6
+http://www.wikidata.org/entity/Q4725732,Alice Bolingbroke Woodward,Henry Woodward,6
+http://www.wikidata.org/entity/Q6240646,Harald Wieselgren,Peter Wieselgren,6
+http://www.wikidata.org/entity/Q1423200,Mary Tighe,William Blachford,6
+http://www.wikidata.org/entity/Q4021169,Władysław Skłodowski,Józef Skłodowski,6
+http://www.wikidata.org/entity/Q461283,Pierre Villon,Moïse Ginsburger,6
+http://www.wikidata.org/entity/Q2078164,Chick Evans,Charles Evans,6
+http://www.wikidata.org/entity/Q2647049,Preben Munthe,Wilhelm Munthe,6
+http://www.wikidata.org/entity/Q3168368,Jean-Paul Bignon,Jérôme II Bignon,6
+http://www.wikidata.org/entity/Q1774989,Francisco de Paula del Villar y Carmona,Francisco de Paula del Villar y Lozano,6
+http://www.wikidata.org/entity/Q2428427,Superman,Lara Lor-Van,6
+http://www.wikidata.org/entity/Q4960104,Annette Kullenberg,Helena Borgström,6
+http://www.wikidata.org/entity/Q86219,Ottmar von Mohl,Robert von Mohl,5
+http://www.wikidata.org/entity/Q90058,Alfred von Wurzbach,Constant von Wurzbach,5
+http://www.wikidata.org/entity/Q528947,Martin Chemnitz,Martin Chemnitz,5
+http://www.wikidata.org/entity/Q563817,Anna von Helmholtz,Robert von Mohl,5
+http://www.wikidata.org/entity/Q1338012,Emma E. Hickox,Anne V. Coates,5
+http://www.wikidata.org/entity/Q11739616,Klara Augusta Brunswick-Luneburg,"Augustus the Younger, Duke of Brunswick-Lüneburg",5
+http://www.wikidata.org/entity/Q12366442,Karl Ludwig Struve,Jacob Struve,5
+http://www.wikidata.org/entity/Q1520635,Rudolf Schöll,Adolf Schöll,5
+http://www.wikidata.org/entity/Q1298822,Ferenc Szinnyei,József Szinnyei,5
+http://www.wikidata.org/entity/Q1035142,Farkas Heller,Ágost Heller,5
+http://www.wikidata.org/entity/Q1319217,Méric Casaubon,Isaac Casaubon,5
+http://www.wikidata.org/entity/Q2419369,Édouard Fétis,François-Joseph Fétis,5
+http://www.wikidata.org/entity/Q4207972,Li Baohua,Li Dazhao,5
+http://www.wikidata.org/entity/Q1399815,Krisztián Ungváry,Rudolf Ungváry,5
+http://www.wikidata.org/entity/Q4013467,Vincenzo Promis,Domenico Promis,5
+http://www.wikidata.org/entity/Q6814836,William P. Cutler,Ephraim Cutler,5
+http://www.wikidata.org/entity/Q14621389,Superboy,Lara Lor-Van,5
+http://www.wikidata.org/entity/Q2522614,Victor Sparre,Victor Smith,5
+http://www.wikidata.org/entity/Q3645690,Bruno Cetto,Adolfo Cetto,5
+http://www.wikidata.org/entity/Q4517378,Alexander Oganovich Chubarian,Ogan Stepanovich Chubar'ian,5
+http://www.wikidata.org/entity/Q1220669,Dezső Németh,Márta Pataki,5
+http://www.wikidata.org/entity/Q16218372,Bovi,Ugboma Margaret,5
+http://www.wikidata.org/entity/Q1337363,Emilie von Gleichen-Rußwurm,Friedrich Schiller,4
+http://www.wikidata.org/entity/Q5576418,Godfrey Dewey,Melvil Dewey,4
+http://www.wikidata.org/entity/Q124665,Ludwig August Struve,Jacob Struve,4
+http://www.wikidata.org/entity/Q1378170,Paul von Nicolay,Ludwig Heinrich von Nicolai,4
+http://www.wikidata.org/entity/Q959415,József Szinnyei,József Szinnyei,4
+http://www.wikidata.org/entity/Q5907163,Stanisław Kętrzyński,Wojciech Kętrzyński,4
+http://www.wikidata.org/entity/Q1897445,Marie Antoinette Menessier-Nodier,Charles Nodier,4
+http://www.wikidata.org/entity/Q1561982,Joseph Laurent,Josef Laurent,4
+http://www.wikidata.org/entity/Q820139,Jacques Le Rider,Georges Le Rider,4
+http://www.wikidata.org/entity/Q4519492,Władysław Szajnocha,Karol Szajnocha,4
+http://www.wikidata.org/entity/Q5541566,George Law,Edmund Law,4
+http://www.wikidata.org/entity/Q13560768,Brenda Putnam,Herbert Putnam,4
+http://www.wikidata.org/entity/Q16062696,Alfred Beckley,John J. Beckley,4
+http://www.wikidata.org/entity/Q1037881,Máté Hollós,Eszter Tóth,4
+http://www.wikidata.org/entity/Q2039213,Otto Hittmair,Rudolf Hittmair,4
+http://www.wikidata.org/entity/Q5040172,Carl Fredrik Pechlin,Johann Pechlin,4
+http://www.wikidata.org/entity/Q5040378,Carl Jesper Benzelius,Erik Benzelius the younger,4
+http://www.wikidata.org/entity/Q6231393,Ernst Wallmark,Per Adam Wallmark,4
+http://www.wikidata.org/entity/Q7821874,Tony Bellotto,Heloísa Liberalli Bellotto,4
+http://www.wikidata.org/entity/Q55869281,Henriqueta Galeno,Juvenal Galeno,4
+http://www.wikidata.org/entity/Q5711650,Augusto Fernández de Avilés,Augusto Fernández de Avilés y García-Alcalá,4
+http://www.wikidata.org/entity/Q18526945,Frederic William Madden,Frederic Madden,4
+http://www.wikidata.org/entity/Q1827033,Ernst Kossmann,Friedrich Kossmann,4
+http://www.wikidata.org/entity/Q7359048,Roger Vale,Monte Vale,4
+http://www.wikidata.org/entity/Q98878,August Lamey,Ernst Andreas Lamey,4
+http://www.wikidata.org/entity/Q25401076,Lloyd Garmadon,Misako,4
+http://www.wikidata.org/entity/Q43427017,Yuri Orestovich Gabel,Augustine Stanislavovna Gabel,4
+http://www.wikidata.org/entity/Q5576418,Godfrey Dewey,Annie Dewey,4
+http://www.wikidata.org/entity/Q11928066,Joaquim Arrufat i Ibáñez,Maria Luisa Ibáñez Milian,4
+http://www.wikidata.org/entity/Q1801068,Reinhold Bechstein,Ludwig Bechstein,3
+http://www.wikidata.org/entity/Q4120451,Mao Anlong,Mao Zedong,3
+http://www.wikidata.org/entity/Q5742152,Hernán Alessandri,Arturo Alessandri,3
+http://www.wikidata.org/entity/Q10914620,Eduardo Alessandri Rodríguez,Arturo Alessandri,3
+http://www.wikidata.org/entity/Q18397177,Karl von Schiller,Friedrich Schiller,3
+http://www.wikidata.org/entity/Q98139,Justus von Olshausen,Justus Olshausen,3
+http://www.wikidata.org/entity/Q112518,Eva Frodl-Kraft,Victor Kraft,3
+http://www.wikidata.org/entity/Q1330186,Elisabeth Pittermann,Bruno Pittermann,3
+http://www.wikidata.org/entity/Q6776508,Martin S. Bergmann,Hugo Bergmann,3
+http://www.wikidata.org/entity/Q2323968,Alexander Willem Byvanck,Willem Byvanck,3
+http://www.wikidata.org/entity/Q1291633,Edward Baldwin Whitney,William Dwight Whitney,3
+http://www.wikidata.org/entity/Q7693523,Ted Mondale,Joan Mondale,3
+http://www.wikidata.org/entity/Q19822490,Christoph Bernoulli,Carl Christoph Bernoulli,3
+http://www.wikidata.org/entity/Q55836907,Aimé Champollion-Figeac,Jacques-Joseph Champollion,3
+http://www.wikidata.org/entity/Q807558,Barbara Mittler,Elmar Mittler,3
+http://www.wikidata.org/entity/Q1682894,Reinhard Herbig,Gustav Herbig,3
+http://www.wikidata.org/entity/Q1874309,Ludwig Dindorf,Gottlieb Immanuel Dindorf,3
+http://www.wikidata.org/entity/Q3084481,Franciscus Dousa,Janus Dousa,3
+http://www.wikidata.org/entity/Q3175064,Jean Viollet,Paul Viollet,3
+http://www.wikidata.org/entity/Q4963436,Johanna Lohm,Johann Pechlin,3
+http://www.wikidata.org/entity/Q5726646,Henry Page Woodward,Henry Woodward,3
+http://www.wikidata.org/entity/Q16405517,Maret Suits,Gustav Suits,3
+http://www.wikidata.org/entity/Q23603371,Gertrude Mary Woodward,Henry Woodward,3
+http://www.wikidata.org/entity/Q42305213,Richard Cortambert,Pierre-François Eugène Cortambert,3
+http://www.wikidata.org/entity/Q4753818,Anders Horn,Anne Horn,3
+http://www.wikidata.org/entity/Q4892997,Bernard Christian Steiner,Lewis Henry Steiner,3
+http://www.wikidata.org/entity/Q7944159,Václav Vokolek,Vladimír Vokolek,3
+http://www.wikidata.org/entity/Q16899719,Carl Keilhau,Wollert Keilhau,3
+http://www.wikidata.org/entity/Q2959715,Charles Louandre,François-César Louandre,3
+http://www.wikidata.org/entity/Q6106761,J. Paul Reason,Joseph Henry Reason,3
+http://www.wikidata.org/entity/Q51187097,Arend Buchholtz,August Wilhelm Buchholtz,3
+http://www.wikidata.org/entity/Q1389080,Grace Norton,Andrews Norton,3
+http://www.wikidata.org/entity/Q3172270,Johann Gottfried Schweighäuser,Johann Schweighäuser,3
+http://www.wikidata.org/entity/Q5544953,George Sumner,Charles Sumner,3
+http://www.wikidata.org/entity/Q5581965,Evert Julius Bonsdorff,Johan Bonsdorff,3
+http://www.wikidata.org/entity/Q5991041,Björn Molin,Anna Molin,3
+http://www.wikidata.org/entity/Q11980800,Kitty Wentzel,Frederik Bætzmann,3
+http://www.wikidata.org/entity/Q16030606,Edward Hertslet,Lewis Hertslet,3
+http://www.wikidata.org/entity/Q17521889,Carlo Frati,Luigi Frati,3
+http://www.wikidata.org/entity/Q20089498,Claude de Cambronne,Paul Cottin,3
+http://www.wikidata.org/entity/Q2833582,Alexandre Delmer,Alexandre Delmer,3
+http://www.wikidata.org/entity/Q4111541,Superman,Lara Lor-Van,3
+http://www.wikidata.org/entity/Q1461838,Friedrich Salomon Vögelin,Anton Salomon Vögelin,3
+http://www.wikidata.org/entity/Q1747963,Robert Pearsall Smith,John Jay Smith,3
+http://www.wikidata.org/entity/Q1895179,Alfred Kossmann,Friedrich Kossmann,3
+http://www.wikidata.org/entity/Q14854105,Petrus Abraham Samuel van Limburg Brouwer,Petrus van Limburg Brouwer,3
+http://www.wikidata.org/entity/Q20016568,José María de Sancha,Tomás de Sancha y González de Castro,3
+http://www.wikidata.org/entity/Q53577577,Johann Sigismund Mörl,Gustav Philipp Mörl,3
+http://www.wikidata.org/entity/Q41610365,Enrique Planchart Rotundo,Enrique Planchart Loynaz,3
+http://www.wikidata.org/entity/Q43292469,Henri-Florent Delmotte,Philibert-Ignace-Marie-Joseph Delmotte,3
+http://www.wikidata.org/entity/Q12093673,Margarita Orestovna Gabel,Augustine Stanislavovna Gabel,3
+http://www.wikidata.org/entity/Q87349532,Valeria Orestovna Gabel-Gasselbrink,Augustine Stanislavovna Gabel,3
+http://www.wikidata.org/entity/Q17381679,Väinö Kivilinna,Oskar Fredrik Borg,3
+http://www.wikidata.org/entity/Q16633518,Klaus Törnudd,Allan Törnudd,3
+http://www.wikidata.org/entity/Q1360918,Ernst von Schiller,Friedrich Schiller,2
+http://www.wikidata.org/entity/Q1671514,James Hickox,Anne V. Coates,2
+http://www.wikidata.org/entity/Q4120464,Yang Yuehua,Mao Zedong,2
+http://www.wikidata.org/entity/Q5707094,Arturo Alessandri Rodríguez,Arturo Alessandri,2
+http://www.wikidata.org/entity/Q7422311,Sarah Franklin Bache,Benjamin Franklin,2
+http://www.wikidata.org/entity/Q15053816,Francis Folger Franklin,Benjamin Franklin,2
+http://www.wikidata.org/entity/Q16055134,Georg Pertz,Georg Heinrich Pertz,2
+http://www.wikidata.org/entity/Q94755192,Therese Forster,Georg Forster,2
+http://www.wikidata.org/entity/Q100268453,Martin Chemnitz,Martin Chemnitz,2
+http://www.wikidata.org/entity/Q15435969,Johann Heinrich Mordtmann,Andreas David Mordtmann,2
+http://www.wikidata.org/entity/Q1681028,Alexander Buttmann,Philipp Karl Buttmann,2
+http://www.wikidata.org/entity/Q1298828,Otmár Szinnyei,József Szinnyei,2
+http://www.wikidata.org/entity/Q1782391,Konrad Zacher,Julius Zacher,2
+http://www.wikidata.org/entity/Q7525900,Sir Adam Ferguson,Adam Ferguson,2
+http://www.wikidata.org/entity/Q2336553,Flip van Duyn,Annie M. G. Schmidt,2
+http://www.wikidata.org/entity/Q16158940,Thorsten A Arwidsson,Adolf Ivar Arwidsson,2
+http://www.wikidata.org/entity/Q24952602,Giuseppe Pedersoli,Bud Spencer,2
+http://www.wikidata.org/entity/Q1079653,Christian Friedrich Reusch,Karl Daniel Reusch,2
+http://www.wikidata.org/entity/Q28957277,Joseph Förstemann,Karl Eduard Förstemann,2
+http://www.wikidata.org/entity/Q7030254,Nicolete Gray,Laurence Binyon,2
+http://www.wikidata.org/entity/Q908899,László Donáth,Éva Bozóky,2
+http://www.wikidata.org/entity/Q1001774,Jenő Fitz,József Fitz,2
+http://www.wikidata.org/entity/Q1109197,Júlia Király,István Király,2
+http://www.wikidata.org/entity/Q1123628,Péter Kárpáti,János Kárpáti,2
+http://www.wikidata.org/entity/Q1298826,József Szinnyei,József Szinnyei,2
+http://www.wikidata.org/entity/Q3588404,Émile Chasles,Philarète Chasles,2
+http://www.wikidata.org/entity/Q5372281,Emily Mary Bowdler Sharpe,Richard Bowdler Sharpe,2
+http://www.wikidata.org/entity/Q6244138,John Law,Edmund Law,2
+http://www.wikidata.org/entity/Q7791735,Thomas Law,Edmund Law,2
+http://www.wikidata.org/entity/Q26404923,Ewan Law,Edmund Law,2
+http://www.wikidata.org/entity/Q1398119,Hermann Deecke,Ernst Deecke,2
+http://www.wikidata.org/entity/Q6240664,Sigfrid Wieselgren,Peter Wieselgren,2
+http://www.wikidata.org/entity/Q15439075,Petra Tschörtner,Heinz Dieter Tschörtner,2
+http://www.wikidata.org/entity/Q17361906,Helga Kangro,Gustav Suits,2
+http://www.wikidata.org/entity/Q20437864,Kálmán Szily,Kálmán Szily,2
+http://www.wikidata.org/entity/Q21545919,"Janus Dousa, the son",Janus Dousa,2
+http://www.wikidata.org/entity/Q23001764,Adalbert Herrmann,Friedrich Herrmann,2
+http://www.wikidata.org/entity/Q23157406,Gábor Rózsa,György Rózsa,2
+http://www.wikidata.org/entity/Q62504562,Dora Hanušová,Ignác Jan Hanuš,2
+http://www.wikidata.org/entity/Q104426862,Ludwika Górecka,Samuel Linde,2
+http://www.wikidata.org/entity/Q4892939,Bernard Bolingbroke Woodward,Samuel Woodward,2
+http://www.wikidata.org/entity/Q5231277,David Bell,Idris Bell,2
+http://www.wikidata.org/entity/Q5912923,Olof Kleberg,Tönnes Kleberg,2
+http://www.wikidata.org/entity/Q6170353,Herman Schück,Adolf Schück,2
+http://www.wikidata.org/entity/Q6230775,Martin Georg Wallenstråle,Georg Wallin,2
+http://www.wikidata.org/entity/Q15220020,Sophie Tottie,Thomas Tottie,2
+http://www.wikidata.org/entity/Q20732628,Arthur ap Gwynn,T. Gwynn Jones,2
+http://www.wikidata.org/entity/Q28942545,Ana María Vicuña,José Miguel Vicuña,2
+http://www.wikidata.org/entity/Q97689435,Clara Wallmark,Per Adam Wallmark,2
+http://www.wikidata.org/entity/Q849128,Éva Braun,Róbert Braun,2
+http://www.wikidata.org/entity/Q5816374,Jan Hult,Phillips Hult,2
+http://www.wikidata.org/entity/Q6098688,Iver Heltzen,Christian Ernst Heltzen,2
+http://www.wikidata.org/entity/Q11994908,Paul Frederik Michael Heltzen,Christian Ernst Heltzen,2
+http://www.wikidata.org/entity/Q12274734,Vasil Ihchiev,Diamandi Ihchiev,2
+http://www.wikidata.org/entity/Q16351561,Anton Buchholtz,August Wilhelm Buchholtz,2
+http://www.wikidata.org/entity/Q16590970,Viveka Heyman,Harald Heyman,2
+http://www.wikidata.org/entity/Q17278150,Katarzyna Tusk,Małgorzata Tusk,2
+http://www.wikidata.org/entity/Q19977062,Alvar Nelson,Axel Nelson,2
+http://www.wikidata.org/entity/Q60361095,Anna L. Fisher,Klas August Linderfelt,2
+http://www.wikidata.org/entity/Q4950704,Karin Granberg,Olof Granberg,2
+http://www.wikidata.org/entity/Q5379842,Henri Justel,Christophe Justel,2
+http://www.wikidata.org/entity/Q5997275,Gerhard Munthe,Wilhelm Munthe,2
+http://www.wikidata.org/entity/Q12318068,Ida Thiele,Just Mathias Thiele,2
+http://www.wikidata.org/entity/Q16690580,Sofya Konstantinova,Aleksey Konstantinov,2
+http://www.wikidata.org/entity/Q19754125,Umberto Gnoli,Domenico Gnoli,2
+http://www.wikidata.org/entity/Q20900628,Mikhail Buturlin,Dmitry Buturlin,2
+http://www.wikidata.org/entity/Q41569561,Lodovico Frati,Luigi Frati,2
+http://www.wikidata.org/entity/Q64155835,René-Pamphile Lemay,Pamphile LeMay,2
+http://www.wikidata.org/entity/Q1782466,Konrad Friedrich Schmidt-Phiseldek,Christoph von Schmidt-Phiseldeck,2
+http://www.wikidata.org/entity/Q3385541,Pierre Isnard,Albert Isnard,2
+http://www.wikidata.org/entity/Q7643821,Superman (Earth-One),Lara Lor-Van,2
+http://www.wikidata.org/entity/Q50825493,Monique de La Roncière,Charles de La Roncière,2
+http://www.wikidata.org/entity/Q108929,Elke Blumenthal,Hermann Blumenthal,2
+http://www.wikidata.org/entity/Q362241,Adolf Hofmeister,Adolf Hofmeister,2
+http://www.wikidata.org/entity/Q8016183,William North Rice,William Rice,2
+http://www.wikidata.org/entity/Q19335400,(Kathleen) Rachel Maxwell- Hyslop,Charles Clay,2
+http://www.wikidata.org/entity/Q64633364,Toni Miserachs,Montserrat Ribalta i Escoda,2
+http://www.wikidata.org/entity/Q21601089,Marjeta Šašel Kos,Ana Šašel,2
+http://www.wikidata.org/entity/Q65036946,Antoinette Rychner,Jacques Rychner,2
+http://www.wikidata.org/entity/Q8354131,David Jou i Mirabent,Lolita Mirabent i Muntané,2
+http://www.wikidata.org/entity/Q18912164,Horace Carter Hovey,Edmund Otis Hovey,2
+http://www.wikidata.org/entity/Q45300905,Peter J. Boldt,Barbro Boldt,2
+http://www.wikidata.org/entity/Q56102755,Etain Madden,Claire Madden,2
+http://www.wikidata.org/entity/Q3769561,Giulio Cesare Buzzati,Augusto Buzzati,2
+http://www.wikidata.org/entity/Q6864519,Yoel Katan,Moshé Catane,2
+http://www.wikidata.org/entity/Q1582244,Hans Schadewaldt,Hans Schadewaldt,2
+http://www.wikidata.org/entity/Q2078000,Peter Samulski,Robert Samulski,2
+http://www.wikidata.org/entity/Q5963339,Håkan Bråkan,Karin Andersson,2
+http://www.wikidata.org/entity/Q92295431,Gabel Ludmila Orestovna,Augustine Stanislavovna Gabel,2
+http://www.wikidata.org/entity/Q7787733,Thomas Bolling Robertson,Ann Mary Cleveland Robertson,2
+http://www.wikidata.org/entity/Q20006579,Salvador Sunyer i Bover,Carme Bover i Calvo,2
+http://www.wikidata.org/entity/Q3745083,Filippo Aliquò Taverriti,Luigi Aliquò Lenzi,2
+http://www.wikidata.org/entity/Q86534638,Joana Serra,Dolors Serra i Kiel,2
+http://www.wikidata.org/entity/Q9288673,Henryk Rudolf Brunswick-Lüneburg,"Augustus the Younger, Duke of Brunswick-Lüneburg",1
+http://www.wikidata.org/entity/Q19309966,Theodora von Fiedler-Wurzbach,Constant von Wurzbach,1
+http://www.wikidata.org/entity/Q19834356,Alfred Heyne,Christian Gottlob Heyne,1
+http://www.wikidata.org/entity/Q37835741,Adolf Emil Ludwig Bechstein,Ludwig Bechstein,1
+http://www.wikidata.org/entity/Q761029,August Buttmann,Philipp Karl Buttmann,1
+http://www.wikidata.org/entity/Q2086620,Philipp Buttmann,Philipp Karl Buttmann,1
+http://www.wikidata.org/entity/Q2174152,Rudolf Wustmann,Gustav Wustmann,1
+http://www.wikidata.org/entity/Q15065981,Ludolf Dorn,Bernhard Dorn,1
+http://www.wikidata.org/entity/Q19963763,Otto Olshausen,Justus Olshausen,1
+http://www.wikidata.org/entity/Q28308764,Gitta Deutsch,Otto Erich Deutsch,1
+http://www.wikidata.org/entity/Q19398707,William Sverdrup,Georg Sverdrup,1
+http://www.wikidata.org/entity/Q19818457,Laurence Bataille,Georges Bataille,1
+http://www.wikidata.org/entity/Q81315396,Emad Khatami,Mohammad Khatami,1
+http://www.wikidata.org/entity/Q18011825,Louis-Nicolas Barbier,Antoine Alexandre Barbier,1
+http://www.wikidata.org/entity/Q28732605,Hiralal Mitra,Peary Chand Mitra,1
+http://www.wikidata.org/entity/Q1947962,Moritz II. von Dietrichstein-Proskau-Leslie,Moritz Joseph Johann von Dietrichstein,1
+http://www.wikidata.org/entity/Q2500183,Ieb Brugmans,Hajo Brugmans,1
+http://www.wikidata.org/entity/Q5107664,Chris Owens,Major Owens,1
+http://www.wikidata.org/entity/Q19860533,Jordi Rubió i Lois,Jordi Rubió,1
+http://www.wikidata.org/entity/Q41892395,Manuel Rubió i Lois,Jordi Rubió,1
+http://www.wikidata.org/entity/Q47481146,Helen Binyon,Laurence Binyon,1
+http://www.wikidata.org/entity/Q72069076,Malena Marechal,Leopoldo Marechal,1
+http://www.wikidata.org/entity/Q99653609,Wolfgang Gabelkover,Oswald Gabelkover,1
+http://www.wikidata.org/entity/Q361222,Adolf Dedekind,Julius Dedekind,1
+http://www.wikidata.org/entity/Q793593,Melinda Berlász,Jenő Berlász,1
+http://www.wikidata.org/entity/Q793594,Piroska Berlász,Jenő Berlász,1
+http://www.wikidata.org/entity/Q1007123,Gusztáv Gaal,György Gaal,1
+http://www.wikidata.org/entity/Q1178963,István Monoki,István Monoki,1
+http://www.wikidata.org/entity/Q1297294,Attila Szepesi,Mária Benda,1
+http://www.wikidata.org/entity/Q5822415,Albrecht Ihre,Johan Ihre,1
+http://www.wikidata.org/entity/Q9467901,Liu Fen,Liu Xin,1
+http://www.wikidata.org/entity/Q11994901,Paul Botten-Hansen jr.,Paul Botten-Hansen,1
+http://www.wikidata.org/entity/Q12349926,Jolán Benkő,Kálmán Benkő,1
+http://www.wikidata.org/entity/Q12794715,Lenart Zajc,Dane Zajc,1
+http://www.wikidata.org/entity/Q13521905,John Russell Bartlett,John Russell Bartlett,1
+http://www.wikidata.org/entity/Q15726623,Julie Dedekind,Julius Dedekind,1
+http://www.wikidata.org/entity/Q16522600,Leila Rásonyi,László Rásonyi,1
+http://www.wikidata.org/entity/Q55135045,Madeleine Herr,Lucien Herr,1
+http://www.wikidata.org/entity/Q64685835,Mary Mudie,Charles Edward Mudie,1
+http://www.wikidata.org/entity/Q83528793,Marian Parker Whitney,William Dwight Whitney,1
+http://www.wikidata.org/entity/Q101068111,Sonia Wachstein,Bernhard Wachstein,1
+http://www.wikidata.org/entity/Q1303669,Friedrich Christian Matthiae,Georg Matthiae,1
+http://www.wikidata.org/entity/Q1546332,Katharina Raabe,Paul Raabe,1
+http://www.wikidata.org/entity/Q1589440,Johann Pechlin,Johann Nicolas Pechlin,1
+http://www.wikidata.org/entity/Q2547146,Walther Fischer,Hermann Fischer,1
+http://www.wikidata.org/entity/Q2918094,Eugenio Hartzenbusch e Hiriart,Juan Eugenio Hartzenbusch,1
+http://www.wikidata.org/entity/Q3101533,George Dousa,Janus Dousa,1
+http://www.wikidata.org/entity/Q3199083,Johannes Willem van Reinhartshausen,Johannes van Rossum,1
+http://www.wikidata.org/entity/Q4938250,Greta Benzelia,Erik Benzelius the younger,1
+http://www.wikidata.org/entity/Q5534757,Geoffrey Madan,Falconer Madan,1
+http://www.wikidata.org/entity/Q5570923,Erik Benzelstierna,Erik Benzelius the younger,1
+http://www.wikidata.org/entity/Q5853538,Henry Viollet,Paul Viollet,1
+http://www.wikidata.org/entity/Q6240653,Magnus Wieselgren,Peter Wieselgren,1
+http://www.wikidata.org/entity/Q12815973,György Sebestyén,Géza Sebestyén,1
+http://www.wikidata.org/entity/Q19907798,Q19907798,Jerzy Samuel Bandtkie,1
+http://www.wikidata.org/entity/Q26853777,Dirk Van der Does,Janus Dousa,1
+http://www.wikidata.org/entity/Q27751044,Alfhild Kallstenius-Åhman,Edvin Kallstenius,1
+http://www.wikidata.org/entity/Q28972807,Christiane Raabe,Paul Raabe,1
+http://www.wikidata.org/entity/Q45222440,Carl Mönckeberg,Johann Georg Mönckeberg,1
+http://www.wikidata.org/entity/Q78902270,Ellen Caroline Woodward,Henry Woodward,1
+http://www.wikidata.org/entity/Q5966609,Hans Lundgren,Bo Lundgren,1
+http://www.wikidata.org/entity/Q6240649,Jon Peter Wieselgren,Oscar Wieselgren,1
+http://www.wikidata.org/entity/Q6665017,Iddo Bin-Gorion,Emanuel Bin-Gorion,1
+http://www.wikidata.org/entity/Q6826700,Yair Ettinger,Ester Eṭinger,1
+http://www.wikidata.org/entity/Q8010341,William H. Brett,William Howard Brett,1
+http://www.wikidata.org/entity/Q9342517,Stanisław Marczak-Oborski,Michał Marczak,1
+http://www.wikidata.org/entity/Q11989960,Morten Andreas Horn,Anne Horn,1
+http://www.wikidata.org/entity/Q13360635,Pernille Anker,Øyvind Anker,1
+http://www.wikidata.org/entity/Q15948430,Ernest Charles Armytage Axon,William Axon,1
+http://www.wikidata.org/entity/Q18220399,"William Warner Bishop, Jr.",William Warner Bishop,1
+http://www.wikidata.org/entity/Q18243139,Celina Vargas do Amaral Peixoto,Alzira Vargas,1
+http://www.wikidata.org/entity/Q18274914,Ragnar Wieselgren,Harald Wieselgren,1
+http://www.wikidata.org/entity/Q19976096,Gustaf Sommelius,Gustaf Johan Sommelius,1
+http://www.wikidata.org/entity/Q20156137,Lars Kleberg,Tönnes Kleberg,1
+http://www.wikidata.org/entity/Q42393434,Bo Richard Lundgren,Bo Lundgren,1
+http://www.wikidata.org/entity/Q55625606,Mieczysław Inglot,Stefan Inglot,1
+http://www.wikidata.org/entity/Q64711421,Ingeborg Tegnér,Elof Tegnér,1
+http://www.wikidata.org/entity/Q85486007,Alexander Napier,Macvey Napier,1
+http://www.wikidata.org/entity/Q105729455,Clara Sandströmer,Anders Lidbeck,1
+http://www.wikidata.org/entity/Q1315654,Ilona T. Erdélyi,Pál Erdélyi,1
+http://www.wikidata.org/entity/Q1360588,Ernst Wilhelm Ackermann,Wilhelm August Ackermann,1
+http://www.wikidata.org/entity/Q6372038,Karl Linderfelt,Klas August Linderfelt,1
+http://www.wikidata.org/entity/Q11881173,Markus Drake,Sunniva Drake,1
+http://www.wikidata.org/entity/Q12285059,Lora Kremen,Mikhail Kremen,1
+http://www.wikidata.org/entity/Q12288407,Q12288407,Diamandi Ihchiev,1
+http://www.wikidata.org/entity/Q12374971,Siim-Tanel Annus,Endel Annus,1
+http://www.wikidata.org/entity/Q12784240,Alenka Glazer,Janko Glazer,1
+http://www.wikidata.org/entity/Q16650656,Harald Åkerstein,Johan Otto Åkerstein,1
+http://www.wikidata.org/entity/Q17097083,Cecilie Høigård,Einar Høigård,1
+http://www.wikidata.org/entity/Q19860533,Jordi Rubió i Lois,Maria Lois i López,1
+http://www.wikidata.org/entity/Q20067897,Tetiana Krushelnytska,Larysa Krushelnytska,1
+http://www.wikidata.org/entity/Q27485596,Amalie Lyhne,Mogens Lyhne,1
+http://www.wikidata.org/entity/Q27899099,Charles Celier,Léonce Celier,1
+http://www.wikidata.org/entity/Q27972321,Mosheh Shilat,Yitzchak Sheilat,1
+http://www.wikidata.org/entity/Q41892395,Manuel Rubió i Lois,Maria Lois i López,1
+http://www.wikidata.org/entity/Q45143980,Marie Baťová,Ferdinand Menčík,1
+http://www.wikidata.org/entity/Q55895815,Friedrich Eiselein,Joseph Eiselein,1
+http://www.wikidata.org/entity/Q63224293,György Buzinkay,Géza Buzinkay,1
+http://www.wikidata.org/entity/Q85436526,Víctor Oliva i Sala,Joan Oliva i Milà,1
+http://www.wikidata.org/entity/Q105701022,Emilio Bofill,Josep Maria Bofill i Pichot,1
+http://www.wikidata.org/entity/Q2943648,Cebarre,Louis Carolus-Barré,1
+http://www.wikidata.org/entity/Q3168950,Jean-Pierre Babelon,Jean Babelon,1
+http://www.wikidata.org/entity/Q3190937,Jérôme II Bignon,Jérôme Bignon,1
+http://www.wikidata.org/entity/Q3289470,Marcel Vicaire,Georges Vicaire,1
+http://www.wikidata.org/entity/Q5547550,Jan Erik Almquist,Johan Axel Almquist,1
+http://www.wikidata.org/entity/Q5585470,Johan Brauner,Johan Brauner,1
+http://www.wikidata.org/entity/Q5767875,Bengt-Olof Granberg,Olof Granberg,1
+http://www.wikidata.org/entity/Q8004308,William Alfred Packard,"Alpheus Spring Packard, Sr.",1
+http://www.wikidata.org/entity/Q16162138,Richard Bergström,Richard Bergström,1
+http://www.wikidata.org/entity/Q17486023,Jérôme Bignon,Jérôme II Bignon,1
+http://www.wikidata.org/entity/Q20014797,Enrico Armas,Alfredo Armas Alfonzo,1
+http://www.wikidata.org/entity/Q21453300,Henry Hall Pickersgill,Henry William Pickersgill,1
+http://www.wikidata.org/entity/Q28553300,Robert Lawrence Packard,"Alpheus Spring Packard, Sr.",1
+http://www.wikidata.org/entity/Q29122280,Annella Armas,Alfredo Armas Alfonzo,1
+http://www.wikidata.org/entity/Q29341973,Arthur Olof Bernhard Bygdén,Anders Leonard Bygdén,1
+http://www.wikidata.org/entity/Q29582428,Joseph Adam Sienkiewicz,Karol Sienkiewicz,1
+http://www.wikidata.org/entity/Q29835629,Ricardo Armas,Alfredo Armas Alfonzo,1
+http://www.wikidata.org/entity/Q51763868,Edda Armas,Alfredo Armas Alfonzo,1
+http://www.wikidata.org/entity/Q96146778,Inga Meidell,Ditmar Meidell,1
+http://www.wikidata.org/entity/Q99864942,Esperanza Romero Larrañaga,Gregorio Romero de Larrañaga,1
+http://www.wikidata.org/entity/Q112758985,Olof Brulin,Herman Brulin,1
+http://www.wikidata.org/entity/Q2835055,Alfred DeCelles,Alfred Duclos DeCelles,1
+http://www.wikidata.org/entity/Q3610699,Alex O'Connell,Evelyn O'Connell,1
+http://www.wikidata.org/entity/Q25419848,Superman in The New 52,Lara Lor-Van,1
+http://www.wikidata.org/entity/Q44830167,Birgitta Lovisa Gjörwell,Carl Christoffer Gjörwell Sr.,1
+http://www.wikidata.org/entity/Q499560,Andreas Meyer,Kurt Meyer,1
+http://www.wikidata.org/entity/Q4981672,Stina von Sydow,Carl-Otto von Sydow,1
+http://www.wikidata.org/entity/Q15431348,Helene Weilen,Alexander von Weilen,1
+http://www.wikidata.org/entity/Q16594943,Gunilla Gren-Eklund,Erik Gren,1
+http://www.wikidata.org/entity/Q24542352,J. Barton Kent,Hippolyte Cocheris,1
+http://www.wikidata.org/entity/Q56266411,Mabel R. Gillis,James L. Gillis,1
+http://www.wikidata.org/entity/Q56694988,Friedrich Christoph Schmincke,Johann Hermann Schmincke,1
+http://www.wikidata.org/entity/Q86101468,Matevž Dular,Anja Dular,1
+http://www.wikidata.org/entity/Q112270359,Fernanda Sparre Smith,Victor Smith,1
+http://www.wikidata.org/entity/Q6584822,Gidʻon Shunami,Shlomo Shunami,1
+http://www.wikidata.org/entity/Q11933624,Lluís Jou i Mirabent,Lolita Mirabent i Muntané,1
+http://www.wikidata.org/entity/Q21069528,"Adolph S. Oko, Jr.",Adolph S. Oko,1
+http://www.wikidata.org/entity/Q62434616,Xabier Irujo Ametzaga,Arantzazu Amezaga Iribarren,1
+http://www.wikidata.org/entity/Q66403872,Ida Boysen,Karl Boysen,1
+http://www.wikidata.org/entity/Q85382754,Barbara Mattsson,Barbro Boldt,1
+http://www.wikidata.org/entity/Q106328822,Walter Lauche,Rudolf Lauche,1
+http://www.wikidata.org/entity/Q2387078,Reinier de Vries,Reinier Willem Petrus de Vries,1
+http://www.wikidata.org/entity/Q2898391,Bernard Oursel,Charles Oursel,1
+http://www.wikidata.org/entity/Q3421078,Raymond Oursel,Charles Oursel,1
+http://www.wikidata.org/entity/Q17327033,Willy Oeser,Max Oeser,1
+http://www.wikidata.org/entity/Q23695818,Jacques Pannier,Léopold Pannier,1
+http://www.wikidata.org/entity/Q29477796,Gunilla Serner,Sixten Rönnow,1
+http://www.wikidata.org/entity/Q37007417,Dag Efvergren,Carl Efvergren,1
+http://www.wikidata.org/entity/Q56167891,Asa Dickinson,Asa Don Dickinson,1
+http://www.wikidata.org/entity/Q57765379,Raphael Catane,Moshé Catane,1
+http://www.wikidata.org/entity/Q825218,Bernhard Henking,Karl Henking,1
+http://www.wikidata.org/entity/Q2476863,Ulrich Vischer,Christoph Vischer,1
+http://www.wikidata.org/entity/Q12022127,Ivo Telec,Vladimír Telec,1
+http://www.wikidata.org/entity/Q55887198,Ernst Friedrich Justus Heimreich,Johann Heimreich,1
+http://www.wikidata.org/entity/Q1478387,Rudolf Hittmair,Anton Hittmair,1
+http://www.wikidata.org/entity/Q12362142,Enn Auksmann,Reet Auksmann,1
+http://www.wikidata.org/entity/Q18763664,Josep Maria,Josefa Callao Mínguez,1
+http://www.wikidata.org/entity/Q19753422,Sune Andersson,Karin Andersson,1
+http://www.wikidata.org/entity/Q66615768,Maria Orestovna Gabel,Augustine Stanislavovna Gabel,1
+http://www.wikidata.org/entity/Q98106132,Martti Kivilinna,Oskar Fredrik Borg,1
+http://www.wikidata.org/entity/Q41741358,Jiří Lendl,Eduard Lendl,1
+http://www.wikidata.org/entity/Q11714553,Iwo Rygiel,Stefan Henryk Rygiel,1
+http://www.wikidata.org/entity/Q21061459,Robert Bayford,Augustus Bayford,1
+http://www.wikidata.org/entity/Q23040100,Patrik Törnudd,Allan Törnudd,1
+http://www.wikidata.org/entity/Q5809021,Niels Hoffmeyer,Julius Hoffmeyer,1
+http://www.wikidata.org/entity/Q12328707,Niels Banke,Jørgen Banke,1
+http://www.wikidata.org/entity/Q15441129,Hildebrand Richard Teirich,Valentin Teirich,1
+http://www.wikidata.org/entity/Q5391281,Karl Abiel Heikel,Albert Heikel,1
+http://www.wikidata.org/entity/Q21544330,Karl Pertz,Georg Heinrich Pertz,0
+http://www.wikidata.org/entity/Q55844317,Caroline Junot,Friedrich Schiller,0
+http://www.wikidata.org/entity/Q55881905,Carl Wilhelm Ludwig Heyne,Christian Gottlob Heyne,0
+http://www.wikidata.org/entity/Q61104243,Marietta Ceconi,Ricarda Huch,0
+http://www.wikidata.org/entity/Q75246010,Christian Franz von Braunschweig-Wolfenbüttel,"Augustus the Younger, Duke of Brunswick-Lüneburg",0
+http://www.wikidata.org/entity/Q75349436,Beatrice Stanley Muller,Friedrich Max Müller,0
+http://www.wikidata.org/entity/Q91400170,Friedrich von Wurzbach-Tannenberg,Constant von Wurzbach,0
+http://www.wikidata.org/entity/Q91400180,Constanze von Wurzbach-Tannenberg,Constant von Wurzbach,0
+http://www.wikidata.org/entity/Q96079416,Mary Emily Müller,Friedrich Max Müller,0
+http://www.wikidata.org/entity/Q110635637,Carl Edvard Moldenhawer,Daniel Gotthilf Moldenhawer,0
+http://www.wikidata.org/entity/Q113489143,Ida Schmidt-Zabierow,Robert von Mohl,0
+http://www.wikidata.org/entity/Q96464697,Mathilde Siemens,Wilhelm Drumann,0
+http://www.wikidata.org/entity/Q18916783,Hedwig Wolf,Ferdinand Wolf,0
+http://www.wikidata.org/entity/Q21544732,Fridegar Mone,Franz Mone,0
+http://www.wikidata.org/entity/Q23001287,Elisabeth Valentiner,Karl Richard Lepsius,0
+http://www.wikidata.org/entity/Q24037709,Franz Friedrich Hoffmann-Fallersleben,August Heinrich Hoffmann von Fallersleben,0
+http://www.wikidata.org/entity/Q47513823,Blanka Glossy,Karl Glossy,0
+http://www.wikidata.org/entity/Q63108522,Leonilda Castelli,Giacomo Casanova,0
+http://www.wikidata.org/entity/Q63108588,Cesarino Lanti,Giacomo Casanova,0
+http://www.wikidata.org/entity/Q94751998,Bertha Schemann,Ludwig Schemann,0
+http://www.wikidata.org/entity/Q94755062,Adolf Wolf,Ferdinand Wolf,0
+http://www.wikidata.org/entity/Q25813111,Julie Bataille,Georges Bataille,0
+http://www.wikidata.org/entity/Q61185659,Christian Friedrich Fritzsche,Otto Fridolinus Fritzsche,0
+http://www.wikidata.org/entity/Q75923059,John Ferguson,Adam Ferguson,0
+http://www.wikidata.org/entity/Q76356728,Isabella Fergusson,Adam Ferguson,0
+http://www.wikidata.org/entity/Q76356734,Mary Fergusson,Adam Ferguson,0
+http://www.wikidata.org/entity/Q76356735,Margaret Fergusson,Adam Ferguson,0
+http://www.wikidata.org/entity/Q76356739,Joseph Fergusson,Adam Ferguson,0
+http://www.wikidata.org/entity/Q96088391,Joseph Priestley,Joseph Priestley,0
+http://www.wikidata.org/entity/Q96088392,Sarah Priestley,Joseph Priestley,0
+http://www.wikidata.org/entity/Q96088393,William Priestley,Joseph Priestley,0
+http://www.wikidata.org/entity/Q96088396,Henry Priestley,Joseph Priestley,0
+http://www.wikidata.org/entity/Q102253847,Leila Khatami,Mohammad Khatami,0
+http://www.wikidata.org/entity/Q57983207,Louise de Heredia,José-Maria de Heredia,0
+http://www.wikidata.org/entity/Q57983326,Hélène de Heredia,José-Maria de Heredia,0
+http://www.wikidata.org/entity/Q75240300,Alastair Charles Coverley Kennedy,Moira Shearer,0
+http://www.wikidata.org/entity/Q75240302,Ailsa Margaret Kennedy,Moira Shearer,0
+http://www.wikidata.org/entity/Q75240306,Rachel Katherine Kennedy,Moira Shearer,0
+http://www.wikidata.org/entity/Q75240310,Fiona Jane Kennedy,Moira Shearer,0
+http://www.wikidata.org/entity/Q99234310,Olivier Alexandre Barbier,Antoine Alexandre Barbier,0
+http://www.wikidata.org/entity/Q100321108,Honoria Dietrichson,Lorentz Dietrichson,0
+http://www.wikidata.org/entity/Q105823119,Diamy Spencer,Bud Spencer,0
+http://www.wikidata.org/entity/Q109352339,Christina Pedersoli,Bud Spencer,0
+http://www.wikidata.org/entity/Q94739172,Ingeborg Preisendanz,Karl Preisendanz,0
+http://www.wikidata.org/entity/Q94760714,Holger Reginbert Preisendanz,Karl Preisendanz,0
+http://www.wikidata.org/entity/Q94918921,Johann Georg Geißler,Johann Gottfried Geißler,0
+http://www.wikidata.org/entity/Q55858070,Julie Fürstin Oettingen-Wallerstein,Moritz Joseph Johann von Dietrichstein,0
+http://www.wikidata.org/entity/Q67183043,Horace Scudder Uhler,Philip Reese Uhler,0
+http://www.wikidata.org/entity/Q76148759,Margaret Gray,Laurence Binyon,0
+http://www.wikidata.org/entity/Q94761150,Elisabeth Dorothea Erman,Wilhelm Erman,0
+http://www.wikidata.org/entity/Q110410860,Ernst von Münchhausen,Ludolf Münchhausen,0
+http://www.wikidata.org/entity/Q110505768,Maria Margarete Rümelin,Martin Rümelin,0
+http://www.wikidata.org/entity/Q19351807,Philip Gosse,Edmund Gosse,0
+http://www.wikidata.org/entity/Q19351991,Charles Henry Mudie,Charles Edward Mudie,0
+http://www.wikidata.org/entity/Q20728326,Bon-Edmé-Etienne Dacier,Bon-Joseph Dacier,0
+http://www.wikidata.org/entity/Q21085905,Robert Singleton Garnett,Richard Garnett,0
+http://www.wikidata.org/entity/Q48623579,Zlatko Zajc,Dane Zajc,0
+http://www.wikidata.org/entity/Q56197113,Michel Herr,Lucien Herr,0
+http://www.wikidata.org/entity/Q61761936,"Reiffenberg, Frédéric, baron de",Frédéric Auguste Ferdinand Thomas de Reiffenberg,0
+http://www.wikidata.org/entity/Q75267034,Agnes Mackenzie,George Mackenzie,0
+http://www.wikidata.org/entity/Q75466278,Mary Law,Edmund Law,0
+http://www.wikidata.org/entity/Q75484489,Katharine Bond,Edward Augustus Bond,0
+http://www.wikidata.org/entity/Q75490489,Edmund Law,Edmund Law,0
+http://www.wikidata.org/entity/Q75490492,Bridget Law,Edmund Law,0
+http://www.wikidata.org/entity/Q75490494,Elizabeth Law,Edmund Law,0
+http://www.wikidata.org/entity/Q75490517,Christian Law,Edmund Law,0
+http://www.wikidata.org/entity/Q75490520,Joanna Law,Edmund Law,0
+http://www.wikidata.org/entity/Q75490540,Joseph Law,Edmund Law,0
+http://www.wikidata.org/entity/Q75490542,Edmund Law,Edmund Law,0
+http://www.wikidata.org/entity/Q75521885,George Mackenzie,George Mackenzie,0
+http://www.wikidata.org/entity/Q75592771,James Mackenzie,George Mackenzie,0
+http://www.wikidata.org/entity/Q75592837,Elizabeth Mackenzie,George Mackenzie,0
+http://www.wikidata.org/entity/Q76043401,Nora Gwendolen Margaret Kenyon,Frederic G. Kenyon,0
+http://www.wikidata.org/entity/Q76255103,Johanna Bentley,Richard Bentley,0
+http://www.wikidata.org/entity/Q76258093,Jean Mackenzie,George Mackenzie,0
+http://www.wikidata.org/entity/Q76258094,Margaret Mackenzie,George Mackenzie,0
+http://www.wikidata.org/entity/Q76306145,Ada Lavinia Bowdler Sharpe,Richard Bowdler Sharpe,0
+http://www.wikidata.org/entity/Q76307349,Eva Augusta Bowdler Sharpe,Richard Bowdler Sharpe,0
+http://www.wikidata.org/entity/Q76307570,Lilian Bertha Bowdler Sharpe,Richard Bowdler Sharpe,0
+http://www.wikidata.org/entity/Q76307725,Dora Louise Bowdler Sharpe,Richard Bowdler Sharpe,0
+http://www.wikidata.org/entity/Q76307864,Lena Violet Bowdler Sharpe,Richard Bowdler Sharpe,0
+http://www.wikidata.org/entity/Q76307934,Daisy Madeline Bowdler Sharpe,Richard Bowdler Sharpe,0
+http://www.wikidata.org/entity/Q76308036,Sylvia Rosamund Bowdler Sharpe,Richard Bowdler Sharpe,0
+http://www.wikidata.org/entity/Q76308123,Hilda Marion Bowdler Sharpe,Richard Bowdler Sharpe,0
+http://www.wikidata.org/entity/Q76308205,Aimee Marjorie Bowdler Sharpe,Richard Bowdler Sharpe,0
+http://www.wikidata.org/entity/Q87468682,Joseph Sewall,Samuel Sewall,0
+http://www.wikidata.org/entity/Q95213133,Emily Henrietta Whitney,William Dwight Whitney,0
+http://www.wikidata.org/entity/Q96084910,Emily Teresa Gosse,Edmund Gosse,0
+http://www.wikidata.org/entity/Q99535634,Ettore Bianciardi,Luciano Bianciardi,0
+http://www.wikidata.org/entity/Q99535635,Luciana Bianciardi,Luciano Bianciardi,0
+http://www.wikidata.org/entity/Q99535795,Marcello Jatosti,Luciano Bianciardi,0
+http://www.wikidata.org/entity/Q100278187,Ranganathan Yogeshwar,S. R. Ranganathan,0
+http://www.wikidata.org/entity/Q105652817,Max Wachstein,Bernhard Wachstein,0
+http://www.wikidata.org/entity/Q113667060,Adele Eigenmann,Rosa Smith Eigenmann,0
+http://www.wikidata.org/entity/Q40085534,Christian Funck-Brentano,Frantz Funck-Brentano,0
+http://www.wikidata.org/entity/Q58822401,Olivier Pognon,Edmond Pognon,0
+http://www.wikidata.org/entity/Q75499107,Beatrice Madan,Falconer Madan,0
+http://www.wikidata.org/entity/Q75599767,Susan Esther Coxe,Henry Octavius Coxe,0
+http://www.wikidata.org/entity/Q76203040,Francis Falconer Madan,Falconer Madan,0
+http://www.wikidata.org/entity/Q76203044,Ethel Wordsworth Madan,Falconer Madan,0
+http://www.wikidata.org/entity/Q94942449,Rolf Goldfriedrich,Johann Goldfriedrich,0
+http://www.wikidata.org/entity/Q95203035,Anna Tomschke,Hubert Maximilian Ermisch,0
+http://www.wikidata.org/entity/Q105142385,Martin F. Woodward,Henry Woodward,0
+http://www.wikidata.org/entity/Q18526643,Bennett Hooper Brough,John Cargill Brough,0
+http://www.wikidata.org/entity/Q63965196,Wu Liming,Liang Sizhuang,0
+http://www.wikidata.org/entity/Q66436488,Hedvig Eleonora Wallin,Georg Wallin,0
+http://www.wikidata.org/entity/Q75242199,Sophie Jane Cecilia Roberts,Jane Roberts,0
+http://www.wikidata.org/entity/Q75242200,Amelia Frances Albinia Roberts,Jane Roberts,0
+http://www.wikidata.org/entity/Q75748527,Digby Neave,Sheffield Airey Neave,0
+http://www.wikidata.org/entity/Q75748558,Iris Averil Neave,Sheffield Airey Neave,0
+http://www.wikidata.org/entity/Q75748562,Rosamund Malua Neave,Sheffield Airey Neave,0
+http://www.wikidata.org/entity/Q75748569,Viola Dorothy Neave,Sheffield Airey Neave,0
+http://www.wikidata.org/entity/Q76032144,Anne Clare Riches,Kenneth Riches,0
+http://www.wikidata.org/entity/Q76242911,John Blackford,William Blachford,0
+http://www.wikidata.org/entity/Q92102167,Mary Langford Taylor Alden,James Wickes Taylor,0
+http://www.wikidata.org/entity/Q95733052,Ebenezer Hancock,"John Hancock, Jr.",0
+http://www.wikidata.org/entity/Q101439354,Fredric Ulric Wallenstråle,Georg Wallin,0
+http://www.wikidata.org/entity/Q104844147,Vicente Navarro Reverter y Pascual,Vicente Navarro Reverter y Gomis,0
+http://www.wikidata.org/entity/Q106393535,Amy Noel Morfydd Ballinger,John Ballinger,0
+http://www.wikidata.org/entity/Q17252417,Anno Blissenbach,Dieter Blissenbach,0
+http://www.wikidata.org/entity/Q17252427,Gero Blissenbach,Dieter Blissenbach,0
+http://www.wikidata.org/entity/Q17252515,Purodha Blissenbach,Dieter Blissenbach,0
+http://www.wikidata.org/entity/Q17278148,Michał Tusk,Małgorzata Tusk,0
+http://www.wikidata.org/entity/Q37491615,Per Stensgaard,Erling Stensgaard,0
+http://www.wikidata.org/entity/Q51187277,Alexander Buchholtz,August Wilhelm Buchholtz,0
+http://www.wikidata.org/entity/Q55854361,Ernst Andreas Lamey,Andreas Lamey,0
+http://www.wikidata.org/entity/Q55854364,Johanna Lamey,Andreas Lamey,0
+http://www.wikidata.org/entity/Q65964538,Melita Stele-Možina,Melita Pivec Stele,0
+http://www.wikidata.org/entity/Q65964548,France Stele,Melita Pivec Stele,0
+http://www.wikidata.org/entity/Q75796221,Elizabeth Anna Le Fanu,William LeFanu,0
+http://www.wikidata.org/entity/Q104535315,Geoffrey Rogerson Axon,Ernest Charles Armytage Axon,0
+http://www.wikidata.org/entity/Q105085324,Paul Celier,Léonce Celier,0
+http://www.wikidata.org/entity/Q19578025,Erik Wilhelm Aurivillius,Pehr Fabian Aurivillius,0
+http://www.wikidata.org/entity/Q19792554,Clara Sofia Göthilda Berling,Edward Berling,0
+http://www.wikidata.org/entity/Q21451782,Armand Roland Bignon,Jérôme II Bignon,0
+http://www.wikidata.org/entity/Q28018677,John Maunoir Sumner,Charles Sumner,0
+http://www.wikidata.org/entity/Q28812329,Anna Engelhardt,Nikolai Engelhardt,0
+http://www.wikidata.org/entity/Q45757862,Torsten Boheman,Mauritz Boheman,0
+http://www.wikidata.org/entity/Q55594174,Anna Cutts,Edward Holyoke,0
+http://www.wikidata.org/entity/Q56928507,Charles Maurice Dundas Bruce,Charles Bruce,0
+http://www.wikidata.org/entity/Q64438162,Hildur Akselsson,Aksel Andersson,0
+http://www.wikidata.org/entity/Q66750792,Parke Chamberlayne Bagby Bolling,George William Bagby,0
+http://www.wikidata.org/entity/Q75443261,Constance Ellen Tawney,Charles Henry Tawney,0
+http://www.wikidata.org/entity/Q75443264,Agnes Susan Tawney,Charles Henry Tawney,0
+http://www.wikidata.org/entity/Q75443266,Charles Joseph Tawney,Charles Henry Tawney,0
+http://www.wikidata.org/entity/Q76049734,Emily Sarah Frances Sumner,Charles Sumner,0
+http://www.wikidata.org/entity/Q76053476,Charles Sumner,Charles Sumner,0
+http://www.wikidata.org/entity/Q76228927,Robert Sumner,Charles Sumner,0
+http://www.wikidata.org/entity/Q76313790,Sophia Albertina Summer,Charles Sumner,0
+http://www.wikidata.org/entity/Q84703711,Priscilla Holyoke Pearson,Edward Holyoke,0
+http://www.wikidata.org/entity/Q93250654,Tommaso Gnoli,Domenico Gnoli,0
+http://www.wikidata.org/entity/Q96077337,Louisa Norton,Andrews Norton,0
+http://www.wikidata.org/entity/Q96077338,Catherine Jane Norton,Andrews Norton,0
+http://www.wikidata.org/entity/Q96077339,William Eliot Norton,Andrews Norton,0
+http://www.wikidata.org/entity/Q96077341,Mary Eliot Norton,Andrews Norton,0
+http://www.wikidata.org/entity/Q96217041,Sarah Cutler,Ephraim Cutler,0
+http://www.wikidata.org/entity/Q108905495,Leonard Wheeler Kephart,Horace Kephart,0
+http://www.wikidata.org/entity/Q109651680,Sabine René-Jean,René-Jean,0
+http://www.wikidata.org/entity/Q110102298,Louisanna Sumner,Charles Sumner,0
+http://www.wikidata.org/entity/Q113610225,Oswin Edmund Craster,Edmund Craster,0
+http://www.wikidata.org/entity/Q28846412,Arthur-Marie-Maurice Bourel de la Roncière,Charles de La Roncière,0
+http://www.wikidata.org/entity/Q61819784,André-Léon Tardieu,Amédée Tardieu,0
+http://www.wikidata.org/entity/Q61819834,Jacques Tardieu,Amédée Tardieu,0
+http://www.wikidata.org/entity/Q64624711,Gustava Eleonora Gjörwell,Carl Christoffer Gjörwell Sr.,0
+http://www.wikidata.org/entity/Q66778916,Paul-Augustin Drach,David Paul Drach,0
+http://www.wikidata.org/entity/Q86324535,Esther Stoddard,Solomon Stoddard,0
+http://www.wikidata.org/entity/Q96076675,Rebekah Stoddard,Solomon Stoddard,0
+http://www.wikidata.org/entity/Q96305821,Rev. Anthony Stoddard,Solomon Stoddard,0
+http://www.wikidata.org/entity/Q96572812,Hannah Stoddard,Solomon Stoddard,0
+http://www.wikidata.org/entity/Q96572864,Paul Noël,Eugène Noël,0
+http://www.wikidata.org/entity/Q100145444,Mary Mix,Solomon Stoddard,0
+http://www.wikidata.org/entity/Q108903140,Colonel John Stoddard,Solomon Stoddard,0
+http://www.wikidata.org/entity/Q113552839,Marie Alfred Silvestre de Sacy,Ustazade Silvestre de Sacy,0
+http://www.wikidata.org/entity/Q21166577,Loftus Longueville Tottenham Clarke,Thomas Brooke Clarke,0
+http://www.wikidata.org/entity/Q21544475,Karl Wagner,Friedrich Ludwig Wagner,0
+http://www.wikidata.org/entity/Q28056760,Caroline Fabricius,Andreas Schleiermacher,0
+http://www.wikidata.org/entity/Q55720270,Lloyd Pearsall Smith,John Jay Smith,0
+http://www.wikidata.org/entity/Q67409605,Jules Cocheris,Hippolyte Cocheris,0
+http://www.wikidata.org/entity/Q75591894,Charles Mackworth-Young,Robert Mackworth Young,0
+http://www.wikidata.org/entity/Q75770705,Algernon Francis Blake Crofton,F. Blake Crofton,0
+http://www.wikidata.org/entity/Q75770732,Arthur Molesworth Crofton,F. Blake Crofton,0
+http://www.wikidata.org/entity/Q75770837,Alice Muriel Woodward Crofton,F. Blake Crofton,0
+http://www.wikidata.org/entity/Q75770841,Kathleen Maude Crofton,F. Blake Crofton,0
+http://www.wikidata.org/entity/Q94741287,Elisabeth Knoll,Artur Biedl,0
+http://www.wikidata.org/entity/Q94761290,Auguste Ewald,Andreas Schleiermacher,0
+http://www.wikidata.org/entity/Q95186413,Annemarie Meierjohann,Artur Biedl,0
+http://www.wikidata.org/entity/Q95186414,Veronika Kriwanek,Artur Biedl,0
+http://www.wikidata.org/entity/Q105109741,William Platt Hayes,Rutherford P. Hayes,0
+http://www.wikidata.org/entity/Q106407199,Q106407199,Joža Glonar,0
+http://www.wikidata.org/entity/Q111770728,Birchard Platt Hayes,Rutherford P. Hayes,0
+http://www.wikidata.org/entity/Q57778842,Ebenezer Pemberton,Ebenezer Pemberton,0
+http://www.wikidata.org/entity/Q58642843,Adam Taube,Gurli Taube,0
+http://www.wikidata.org/entity/Q58642843,Adam Taube,Nils Taube,0
+http://www.wikidata.org/entity/Q59159832,Raymond Braislin Montgomery,Priscilla Montgomery,0
+http://www.wikidata.org/entity/Q50819161,Mary Robinson,John Robinson,0
+http://www.wikidata.org/entity/Q51844347,Sibylle Dahms,Constantin Schneider,0
+http://www.wikidata.org/entity/Q52380264,Mathilde Zedler,Gottfried Zedler,0
+http://www.wikidata.org/entity/Q53350436,Solomon Bulkley Griffin,Nathaniel Herrick Griffin,0
+http://www.wikidata.org/entity/Q55844551,Hektor Hubert Lamey,Ernst Andreas Lamey,0
+http://www.wikidata.org/entity/Q56151645,Eileen Gregory,Elizabeth Bugie,0
+http://www.wikidata.org/entity/Q76253971,Joseph Strutt,Joseph Strutt,0
+http://www.wikidata.org/entity/Q94906168,Ludwig Last,Albert Last,0
+http://www.wikidata.org/entity/Q105209067,Johann Friedrich Wettstein,Johann Rudolf Wettstein,0
+http://www.wikidata.org/entity/Q106091083,Ustinya Zinovyeva,Bernhard Theodor Breitkopf,0
+http://www.wikidata.org/entity/Q111965535,Louise Alice Champollion-Figeac,Aimé Champollion-Figeac,0
+http://www.wikidata.org/entity/Q28836319,Carlos Serrano,Claude Bloch,0
+http://www.wikidata.org/entity/Q41882904,"Ger Schmook, Jr.",Ger Schmook,0
+http://www.wikidata.org/entity/Q50631116,Mary Robinson,Joseph Ogle,0
+http://www.wikidata.org/entity/Q50819161,Mary Robinson,Mary Robinson,0
+http://www.wikidata.org/entity/Q55987321,Justo García Morales,Justo García Soriano,0
+http://www.wikidata.org/entity/Q56435818,Grace Gardner Griffin,Appleton Prentiss Clark Griffin,0
+http://www.wikidata.org/entity/Q61269968,Bat Sheva Hershkovits,Moshé Catane,0
+http://www.wikidata.org/entity/Q61270622,Miryam Samuel,Moshé Catane,0
+http://www.wikidata.org/entity/Q75881208,John James Hall,Aylmer Hall,0
+http://www.wikidata.org/entity/Q75881209,Julia Kathleen Aylmer Hall,Aylmer Hall,0
+http://www.wikidata.org/entity/Q77690262,Jiří Kunc,Jaroslav Kunc,0
+http://www.wikidata.org/entity/Q105804998,Claire de Moy,Hendrik de Moy,0
+http://www.wikidata.org/entity/Q59609972,Theodora Vischer,Christoph Vischer,0
+http://www.wikidata.org/entity/Q60830325,Conrad Wirz,Hans Konrad Wirz,0
+http://www.wikidata.org/entity/Q94743846,Blandina Le Clercq,Jonathan LeClercq,0
+http://www.wikidata.org/entity/Q94914047,Arnulf Kattermann,Gerhard Kattermann,0
+http://www.wikidata.org/entity/Q94919657,Philipp Wolff-Windegg,Werner Wolff,0
+http://www.wikidata.org/entity/Q94933732,Nathanael Falck,Michael Falck,0
+http://www.wikidata.org/entity/Q95186289,Margareta Elisabeth Weise,Melchior Schmidt,0
+http://www.wikidata.org/entity/Q95198987,Regine Benda,Elimar Benda,0
+http://www.wikidata.org/entity/Q95231820,Hermann Adolf Hienz,Hermann Hienz,0
+http://www.wikidata.org/entity/Q95344366,Detlev Hellfaier,Karl-Alexander Hellfaier,0
+http://www.wikidata.org/entity/Q60297842,Lyman A. Cotten,Elizabeth Henderson Cotten,0
+http://www.wikidata.org/entity/Q60583643,Harriet Schiff,Zelda Schiff,0
+http://www.wikidata.org/entity/Q61791437,Giovanni Giacomo Della Bona,Giuseppe Domenico Della Bona,0
+http://www.wikidata.org/entity/Q73621839,Anna Andersson,Karin Andersson,0
+http://www.wikidata.org/entity/Q73622165,Isabelle Andersson,Karin Andersson,0
+http://www.wikidata.org/entity/Q83469675,Johann Georg Frick,Johann Frick,0
+http://www.wikidata.org/entity/Q91517316,Hannah Gookin,Nathaniel Gookin,0
+http://www.wikidata.org/entity/Q91519052,Dorothy Cotton,John Cotton,0
+http://www.wikidata.org/entity/Q91524305,Mary Cotton,John Cotton,0
+http://www.wikidata.org/entity/Q91524307,Thomas Whiting,John Whiting,0
+http://www.wikidata.org/entity/Q98017000,Isabella Pratt,Benjamin Prat,0
+http://www.wikidata.org/entity/Q98270490,Elena Orestovna Gabel,Augustine Stanislavovna Gabel,0
+http://www.wikidata.org/entity/Q99756719,Anton Hittmair,Anton Hittmair,0
+http://www.wikidata.org/entity/Q100262434,Rudolf Paschkis,Heinrich Paschkis,0
+http://www.wikidata.org/entity/Q100266273,Erwin Paschkis,Heinrich Paschkis,0
+http://www.wikidata.org/entity/Q107138704,Katherine Gibbs,Josiah Willard,0
+http://www.wikidata.org/entity/Q64850271,Jiří Rambousek,Stanislav Rambousek,0
+http://www.wikidata.org/entity/Q74693246,Sidsel Colbiørnsen,Elisabeth Colbiørnsen,0
+http://www.wikidata.org/entity/Q76047272,Matthew Francis Holland,David Cuthbert Lyall Holland,0
+http://www.wikidata.org/entity/Q76047279,Peter Gwinnell Holland,David Cuthbert Lyall Holland,0
+http://www.wikidata.org/entity/Q76047280,Lucinda Jane Holland,David Cuthbert Lyall Holland,0
+http://www.wikidata.org/entity/Q94932400,Gustav Bunsen,Christian Bunsen,0
+http://www.wikidata.org/entity/Q95198705,Daniela Lülfing,Gisela Lülfing,0
+http://www.wikidata.org/entity/Q104099280,Bertram Bartoš,Lydie Franka Bartošová,0
+http://www.wikidata.org/entity/Q108032962,Anna Feitzinger,Adolf Wolf,0
+http://www.wikidata.org/entity/Q108571245,Maria Teresa Gnoli,Tommaso Gnoli,0
+http://www.wikidata.org/entity/Q21549593,Johann August Christoph von Einem,Johann Just von Einem,0
+http://www.wikidata.org/entity/Q95256113,Karl Scherling,Friedrich Scherling,0
+http://www.wikidata.org/entity/Q95298687,Johannes Klos,Herbert Klos,0
+http://www.wikidata.org/entity/Q102311064,André Loh-Kliesch,Gerhard Loh,0
+http://www.wikidata.org/entity/Q109997561,Pavel Aleš,Bohumír Aleš,0
+http://www.wikidata.org/entity/Q110929853,Evelyn Page Howlett,Frederick Winslow Page,0
+http://www.wikidata.org/entity/Q99689587,Morgan Baker,Molly Griswold Flender,0
+http://www.wikidata.org/entity/Q107969013,"William Hobbs Childress, Jr.",Lillian Haydon Childress Hall,0
+http://www.wikidata.org/entity/Q111754473,Anna Gil Mengual,Daniel Gil Solés,0
+http://www.wikidata.org/entity/Q111754514,Alba Gil Mengual,Daniel Gil Solés,0
+http://www.wikidata.org/entity/Q111754653,Noèlia Toboso Mengual,Daniel Gil Solés,0
+http://www.wikidata.org/entity/Q42399014,Grégoire Celier,Paul Celier,0
+http://www.wikidata.org/entity/Q104257662,Lucy Lee,Marion Lincoln Lewis,0
+http://www.wikidata.org/entity/Q104258966,Francis Lincoln Lee,Marion Lincoln Lewis,0
+http://www.wikidata.org/entity/Q104694031,Giulio Cesare Faccio,Cesare Faccio,0
+http://www.wikidata.org/entity/Q105098195,Karin Zetterqvist,Edvard Zetterqvist,0
+http://www.wikidata.org/entity/Q111750009,Jennifer Sayles Harville,Lydia Coolidge Sayles,0
