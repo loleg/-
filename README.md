@@ -1,3 +1,5 @@
-# Superheroes for Climate
+[![Frictionless](https://github.com/loleg/-/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/pages/dashboard.html?user=loleg&repo=-&flow=frictionless)
 
-A drumbeat for the climate
+# Rain of Drums
+
+A Data Package. A work in progress. An illustrative example.
