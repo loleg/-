@@ -1,4 +1,4 @@
-[![Frictionless](https://github.com/loleg/-/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/pages/dashboard.html?user=loleg&repo=-&flow=frictionless)
+[![Frictionless](https://github.com/loleg/rain-of-drums/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/pages/dashboard.html?user=loleg&repo=rain-of-drums&flow=frictionless)
 
 # Rain of Drums
 
